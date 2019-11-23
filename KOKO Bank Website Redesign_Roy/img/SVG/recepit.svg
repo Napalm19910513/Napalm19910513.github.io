@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180.664" height="180.5" viewBox="0 0 180.664 180.5">
+    <defs>
+        <style>
+            .cls-1{fill:#ec008c}.cls-2{fill:#fff;font-size:68px;font-family:Roboto-BlackItalic,Roboto;font-weight:800;font-style:italic}
+        </style>
+    </defs>
+    <g id="recepit" transform="translate(-1013.488 -1430.5)">
+        <path id="Path_56" d="M600-255v142.785l2.7-2.7L621.17-96.9l18.017-18.017L658.1-96.9l18.467-18.017L695.04-96.9l18.017-18.017L731.524-96.9l18.467-18.017 3.153 2.7V-255z" class="cls-1" data-name="Path 56" transform="translate(436.668 1707.901)"/>
+        <g id="receipt" transform="translate(1013.488 1430.5)">
+            <path id="Path_45" d="M180.664 12.337A12.056 12.056 0 0 0 168.62.293H12.044a12.019 12.019 0 0 0-3.011 23.661V170.16l9.033-9.033 18.066 18.066L54.2 161.127l18.066 18.066 18.066-18.066 18.068 18.066 18.066-18.066 18.066 18.066 18.068-18.066 9.033 9.033V23.954a12.031 12.031 0 0 0 9.031-11.617zm-15.055 143.285l-3.011-3.011-18.066 18.066-18.066-18.066-18.066 18.067-18.068-18.067-18.066 18.067L54.2 152.611l-18.067 18.067-18.067-18.067-3.011 3.011V15.348h150.554v140.274zm6.022-138.073V9.326H9.033v8.223a6.02 6.02 0 0 1 3.011-11.234H168.62a6.02 6.02 0 0 1 3.011 11.234z" data-name="Path 45" transform="translate(0 -.293)"/>
+            <path id="Rectangle_81" d="M0 0h51.571v7.367H0z" data-name="Rectangle 81" transform="translate(89.882 48.624)"/>
+            <path id="Rectangle_82" d="M0 0h51.571v7.367H0z" data-name="Rectangle 82" transform="translate(89.882 70.727)"/>
+            <path id="Rectangle_83" d="M0 0h51.571v7.367H0z" data-name="Rectangle 83" transform="translate(89.882 91.355)"/>
+            <path id="Rectangle_84" d="M0 0h51.571v7.367H0z" data-name="Rectangle 84" transform="translate(89.882 111.984)"/>
+        </g>
+        <text id="_" class="cls-2" data-name="$" transform="translate(1066.93 1533.81)">
+            <tspan x="-19.258" y="0">$</tspan>
+        </text>
+    </g>
+</svg>

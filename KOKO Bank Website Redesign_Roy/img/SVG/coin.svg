@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="35" viewBox="0 0 30 35">
+    <defs>
+        <style>
+            .cls-1{fill:#f5a400}.cls-2{fill:#fff;font-size:29px;font-family:Roboto-BlackItalic,Roboto;font-weight:800;font-style:italic}.cls-3,.cls-5{fill:none}.cls-3{stroke:#f5a400}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="coin" transform="translate(-213 -1135)">
+        <circle id="Ellipse_15" cx="13.125" cy="13.125" r="13.125" class="cls-1" data-name="Ellipse 15" transform="translate(214.875 1139.875)"/>
+        <text id="_" class="cls-2" data-name="$" transform="translate(227.375 1163)">
+            <tspan x="-8.213" y="0">$</tspan>
+        </text>
+        <g id="Ellipse_16" class="cls-3" data-name="Ellipse 16" transform="translate(213 1138)">
+            <circle cx="15" cy="15" r="15" class="cls-4"/>
+            <circle cx="15" cy="15" r="14.5" class="cls-5"/>
+        </g>
+    </g>
+</svg>

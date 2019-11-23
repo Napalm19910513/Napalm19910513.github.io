@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:#c4d600}
+        </style>
+    </defs>
+    <path id="Green_arrow" d="M12 0l12 24H0z" class="cls-1" data-name="Green arrow" transform="rotate(180 12 12)"/>
+</svg>

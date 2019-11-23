@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="60" viewBox="0 0 96 60">
+    <defs>
+        <style>
+            .cls-1{fill:#ec008c}.cls-2{fill:#c4d600}.cls-3{fill:#b61f28}.cls-4{fill:#fff}.cls-5{fill:none}
+        </style>
+    </defs>
+    <g id="KOKO_Trademark" data-name="KOKO Trademark" transform="translate(-121 -25)">
+        <g id="KOKO_Bank" data-name="KOKO Bank" transform="translate(184.424 206.003)">
+            <g id="Group_4" data-name="Group 4" transform="translate(-53.424 -175.003)">
+                <path id="Path_1" d="M-16.622-155.762a19.118 19.118 0 0 1 4.5-12.344 24.286 24.286 0 0 0-16.93-6.843 24.369 24.369 0 0 0-24.372 24.369 24.369 24.369 0 0 0 24.369 24.369 24.366 24.366 0 0 0 21.64-13.155 19.186 19.186 0 0 1-9.207-16.396z" class="cls-1" data-name="Path 1" transform="translate(53.424 174.959)"/>
+                <path id="Path_2" d="M181.291-175a19.155 19.155 0 0 0-14.7 6.853 24.3 24.3 0 0 1 7.439 17.526 24.261 24.261 0 0 1-2.729 11.214 19.107 19.107 0 0 0 9.991 2.8 19.2 19.2 0 0 0 19.2-19.2A19.2 19.2 0 0 0 181.291-175z" class="cls-2" data-name="Path 2" transform="translate(-125.291 175.003)"/>
+                <path id="Path_3" d="M147.133-138.493a19.119 19.119 0 0 0-4.5 12.344 19.186 19.186 0 0 0 9.206 16.4 24.261 24.261 0 0 0 2.729-11.214 24.3 24.3 0 0 0-7.435-17.53z" class="cls-3" data-name="Path 3" transform="translate(-105.835 145.346)"/>
+                <g id="Group_3" data-name="Group 3" transform="translate(1.83 11.538)">
+                    <g id="Group_1" data-name="Group 1" transform="translate(0 6.908)">
+                        <path id="Path_4" d="M-39.845-66.829a1.705 1.705 0 0 0-2.21-1.588 1.711 1.711 0 0 0-1.577 2.217l1.857 11.337a1.684 1.684 0 0 0 2.188 1.572 1.714 1.714 0 0 0 1.59-2.2z" class="cls-2" data-name="Path 4" transform="translate(43.676 70.012)"/>
+                        <path id="Path_5" d="M-4.195-63.772A3.064 3.064 0 0 0-5.5-65.489c-.6-.458-4.017-3.172-4.076-3.22.041-.063 2.409-3.725 2.836-4.352a3.068 3.068 0 0 0 .693-2.045 1.846 1.846 0 0 0-2.2-1.6 2.13 2.13 0 0 0-1.636 1.185c-.288.5-3.193 5.355-3.514 5.9a2.562 2.562 0 0 0 .491 3c.455.4 4.779 4.084 5.212 4.466a2.128 2.128 0 0 0 1.928.6 1.844 1.844 0 0 0 1.571-2.217z" class="cls-2" data-name="Path 5" transform="translate(19.318 76.732)"/>
+                    </g>
+                    <g id="Group_2" data-name="Group 2" transform="translate(14.879)">
+                        <path id="Path_6" d="M50.909-78.157a7.66 7.66 0 0 1-7.774 7.544 7.66 7.66 0 0 1-7.544-7.774 7.659 7.659 0 0 1 7.774-7.543 7.659 7.659 0 0 1 7.544 7.773z" class="cls-2" data-name="Path 6" transform="translate(-35.59 91.113)"/>
+                        <ellipse id="Ellipse_1" cx="7.66" cy="7.66" class="cls-4" data-name="Ellipse 1" rx="7.66" ry="7.66" transform="translate(31.631)"/>
+                        <path id="Path_7" d="M128.665-94.431l1.848 11.338a1.713 1.713 0 0 1-1.59 2.2 1.684 1.684 0 0 1-2.188-1.572L124.878-93.8a1.711 1.711 0 0 1 1.577-2.218 1.7 1.7 0 0 1 2.21 1.587z" class="cls-4" data-name="Path 7" transform="translate(-108.082 99.341)"/>
+                        <path id="Path_8" d="M158.929-96.311s3.469 2.76 4.079 3.222a3.065 3.065 0 0 1 1.309 1.717 1.845 1.845 0 0 1-1.577 2.217 2.13 2.13 0 0 1-1.928-.6c-.433-.383-4.757-4.068-5.212-4.467a2.563 2.563 0 0 1-.491-3c.322-.541 3.227-5.395 3.515-5.9a2.13 2.13 0 0 1 1.636-1.185 1.845 1.845 0 0 1 2.2 1.6 3.066 3.066 0 0 1-.693 2.045c-.43.632-2.837 4.354-2.837 4.354" class="cls-4" data-name="Path 8" transform="translate(-132.442 106.059)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path id="Rectangle_3" d="M0 0h96v60H0z" class="cls-5" data-name="Rectangle 3" transform="translate(121 25)"/>
+    </g>
+</svg>

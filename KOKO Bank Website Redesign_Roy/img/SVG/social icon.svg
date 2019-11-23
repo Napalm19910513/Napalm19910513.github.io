@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="40" viewBox="0 0 152 40">
+    <defs>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="social_icon" data-name="social icon" transform="translate(-1133 -2288)">
+        <g id="Group_76" data-name="Group 76" transform="translate(69 23)">
+            <path id="facebook_1_" d="M4.98 34h11.09V21.914h-3.984V17.93h3.984v-4.98a4.986 4.986 0 0 1 4.98-4.98h4.98v3.984h-3.983a1.994 1.994 0 0 0-1.992 1.992v3.984h5.8l-.664 3.984h-5.136V34h8.965A4.986 4.986 0 0 0 34 29.02V4.98A4.986 4.986 0 0 0 29.02 0H4.98A4.986 4.986 0 0 0 0 4.98v24.04A4.986 4.986 0 0 0 4.98 34zM1.992 4.98A2.992 2.992 0 0 1 4.98 1.992h24.04a2.992 2.992 0 0 1 2.988 2.988v24.04a2.992 2.992 0 0 1-2.988 2.988h-6.973v-8.1h4.828l1.325-7.97h-6.153v-1.993h5.977V5.977h-6.973a6.98 6.98 0 0 0-6.973 6.973v2.988h-3.984v7.969h3.984v8.1H4.98a2.992 2.992 0 0 1-2.988-2.987zm0 0" data-name="facebook (1)" transform="translate(1067 2268)"/>
+            <path id="Rectangle_85" d="M0 0h40v40H0z" class="cls-1" data-name="Rectangle 85" transform="translate(1064 2265)"/>
+        </g>
+        <g id="Group_75" data-name="Group 75" transform="translate(29 23)">
+            <g id="youtube" transform="translate(1164 2271.667)">
+                <path id="Path_57" d="M4.9 25.86h23.663a4.944 4.944 0 0 0 4.9-4.973V4.973A4.944 4.944 0 0 0 28.563 0H4.9A4.944 4.944 0 0 0 0 4.973v15.914a4.944 4.944 0 0 0 4.9 4.973zM1.961 4.973A2.966 2.966 0 0 1 4.9 1.989h23.663A2.966 2.966 0 0 1 31.5 4.973v15.914a2.966 2.966 0 0 1-2.941 2.984H4.9a2.966 2.966 0 0 1-2.941-2.984zm0 0" data-name="Path 57"/>
+                <path id="Path_58" d="M181 94.508v13.233l12.246-6.725zm2.035 3.309l6.072 3.227-6.072 3.335zm0 0" data-name="Path 58" transform="translate(-169.414 -88.096)"/>
+            </g>
+            <path id="Rectangle_86" d="M0 0h40v40H0z" class="cls-1" data-name="Rectangle 86" transform="translate(1160 2265)"/>
+        </g>
+        <g id="Group_74" data-name="Group 74" transform="translate(7 23)">
+            <g id="instagram" transform="translate(1241 2268)">
+                <path id="Path_59" d="M4.98 34h24.04A4.986 4.986 0 0 0 34 29.02V4.98A4.986 4.986 0 0 0 29.02 0H4.98A4.986 4.986 0 0 0 0 4.98v24.04A4.986 4.986 0 0 0 4.98 34zM1.992 4.98A2.992 2.992 0 0 1 4.98 1.992h24.04a2.992 2.992 0 0 1 2.988 2.988v24.04a2.992 2.992 0 0 1-2.988 2.988H4.98a2.992 2.992 0 0 1-2.988-2.988zm0 0" data-name="Path 59"/>
+                <path id="Path_60" d="M130.753 140.505a9.753 9.753 0 1 0-9.753-9.752 9.764 9.764 0 0 0 9.753 9.752zm0-17.338a7.585 7.585 0 1 1-7.585 7.585 7.594 7.594 0 0 1 7.585-7.585zm0 0" data-name="Path 60" transform="translate(-113.753 -113.753)"/>
+                <path id="Path_61" d="M363.7 66.391a2.7 2.7 0 1 0-2.7-2.7 2.7 2.7 0 0 0 2.7 2.7zm0-3.594a.9.9 0 1 1-.9.9.9.9 0 0 1 .9-.897zm0 0" data-name="Path 61" transform="translate(-336.044 -57.346)"/>
+            </g>
+            <path id="Rectangle_87" d="M0 0h40v40H0z" class="cls-1" data-name="Rectangle 87" transform="translate(1238 2265)"/>
+        </g>
+    </g>
+</svg>
