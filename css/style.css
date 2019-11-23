@@ -23,6 +23,18 @@ html{
 }
 }
 
+@media screen and (max-width: 375px){
+  	header .fa-bars{
+  		margin:0;
+  	}
+
+  	header .wrapper > ul li:first-child{
+	    margin-left:0;
+	    margin-right: 8px;
+    }
+
+}
+
 body{
 	background-color: #FFFFFF;
 	font-family: YuGothicUI-Regular;
@@ -115,9 +127,11 @@ header ul > li{
 	box-sizing: border-box;
 } 
 
+@media screen and (min-width: 376px){
 .wrapper > ul li:first-child{
 	margin-left: 25px;
 	margin-right: 8px;
+}
 }
 
 .wrapper > ul li:first-child:hover{
